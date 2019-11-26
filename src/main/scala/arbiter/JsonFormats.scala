@@ -1,6 +1,6 @@
-package com.example
+package arbiter
 
-import com.example.UserRegistry.ActionPerformed
+import arbiter.UserRegistry.ActionPerformed
 
 //#json-formats
 import spray.json.DefaultJsonProtocol
